@@ -1,0 +1,10 @@
+{
+  "START TEMPLATE CSS - EDIT THIS SECTION": "START TEMPLATE CSS - EDIT THIS SECTION - Customize the styles, colors, fonts, and layout of your landing page for testing.",
+  "GOOGLE ANALYTICS. ENTER YOUR CODE and UNCOMMENT block": "GOOGLE ANALYTICS. ENTER YOUR CODE and UNCOMMENT block - Add your Google Analytics tracking code here to test website traffic and user activity.",
+  "Width of Full Page": "Width of Full Page - Adjust the page width to test different screen sizes and responsive layouts.",
+  "START TEMPLATE HTML - EDIT THIS SECTION": "START TEMPLATE HTML - EDIT THIS SECTION - Add dummy content, sample headings, and test descriptions to customize your landing page.",
+  "Welcome to our sample landing page! Explore our features and services.": "Welcome to our sample landing page! Explore our features and services.",
+  "This is a dummy test string to verify the localization and translation workflow.": "This is a dummy test string to verify the localization and translation workflow.",
+  "Please enter your details and click the Submit button to continue.": "Please enter your details and click the Submit button to continue.",
+  "Your changes have been saved successfully. Thank you for testing our application.": "Your changes have been saved successfully. Thank you for testing our application."
+}
