@@ -1,0 +1,10 @@
+{
+  "END TEMPLATE HTML": "END TEMPLATE HTML - End of the landing page HTML template",
+  "Base of Landing Page Content": "Base of Landing Page Content - Main content section of the landing page",
+  "SYSTEM INCLUDES - DO NOT EDIT": "SYSTEM INCLUDES - DO NOT EDIT - Contains essential system files and configurations",
+  "Note: You can also change these in the specific Landing Pages": "Note: You can also change these settings individually in the specific Landing Pages.",
+  "This is the first test string for localization testing.": "This is the first test string for localization testing.",
+  "Welcome! Your project has been created successfully.": "Welcome! Your project has been created successfully.",
+  "Please review and confirm your changes before proceeding.": "Please review and confirm your changes before proceeding.",
+  "An error occurred while processing your request. Please try again.": "An error occurred while processing your request. Please try again."
+}
