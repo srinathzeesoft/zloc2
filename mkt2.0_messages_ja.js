@@ -1,6 +1,6 @@
 {
-  "mkt2.0_messages.js.Mkt3L10n.CustomTokens": "トークン",
   "mkt2.0_messages.js.Mkt3L10n.MarketingEvent": "オンライン セミナから更新",
+  "mkt2.0_messages.js.Mkt3L10n.CustomTokens": "トークン",
   "mkt2.0_messages.js.Mkt3L10n.ViewSlackDetailsModal": "いいえ",
   "mkt2.0_messages.js.Mkt3L10n.ViewFacebookWorkplaceDetailsModal": "注目のアクション",
   "mkt2.0_messages.js.Mkt3L10n.session": "サーバが 要素 ID「{0}」に対して HTML を付与しましたが、この ID は既知のリストと一致しません",
